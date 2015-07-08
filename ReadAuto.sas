@@ -1,6 +1,4 @@
 
-
-
 #### Task
 
 Load Auto.data (an R data set in ISLR) into SAS.
